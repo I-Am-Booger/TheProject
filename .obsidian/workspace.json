@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "5a92207c90983630",
+    "type": "split",
+    "children": [
+      {
+        "id": "583c3ac91ce86761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efed7704fc441313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "theFix/journal/May 6th 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "May 6th 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f5eb71084e98638",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a8c7d5d64f1e182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c2778d512487353",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e9a4fc09a4f1c8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70fc7ef9395288de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "559af455ede5a962",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f414188358ee345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b222434c811403",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "theFix/tracker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tracker"
+            }
+          },
+          {
+            "id": "391473eaaf101c18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "theFix/tracker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tracker"
+            }
+          },
+          {
+            "id": "9bf51833e0f24aa7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11587cea4ae4a065",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "theFix/tracker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "efed7704fc441313",
+  "lastOpenFiles": [
+    "theFix/journal/Week_01_The_Fix.md",
+    "theFix/journal/May 6th 2025.md",
+    "theFix/Week 01 - The Fix Begins.md",
+    "theFix/week_01.md",
+    "README.md.md"
+  ]
+}

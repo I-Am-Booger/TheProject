@@ -12,8 +12,8 @@ W = Walk · Ch = Chin-ups · PU = Pull-ups · Sq = Squats · pu = Push-ups · Su
 
 | Day       | Lua Practice | Fitness (Drum/Cardio)   | Diet Tracked | Wake Time | Journal Entry | BG AM  | BG PM |
 | --------- | ------------ | ----------------------- | ------------ | --------- | ------------- | ------ | ----- |
-| Monday    | [✔]          | [W, Ch, PU, Sq, pu, Su] | [ ]          | [6:45]    | [✔]           | [ 295] | [ ]   |
-| Tuesday   | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
+| Monday    | [✔]          | [W, Ch, PU, Sq, pu, Su] | [ 100 C]     | [6:45]    | [✔]           | [ 295] | [ ]   |
+| Tuesday   | [ ]          | [ ]                     | [ ]          | [ 7:00]   | [ ✔]          | [ 232] | [ ]   |
 | Wednesday | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
 | Thursday  | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
 | Friday    | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |

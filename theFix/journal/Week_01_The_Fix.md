@@ -15,9 +15,9 @@ W = Walk · Ch = Chin-ups · PU = Pull-ups · Sq = Squats · pu = Push-ups · Su
 | Monday    | [✔]          | [W, Ch, PU, Sq, pu, Su] | [ 100 C]     | [6:45]    | [✔]           | [ 295] | [ ]   |
 | Tuesday   | [✔]          | [ Sq ,pu]               | [ 100 C]     | [ 7:00]   | [✔]           | [ 232] | [ ]   |
 | Wednesday | [✔]          | [Ch, PU, Sq, pu, Su]    | [ 150 C]     | [11:00]   | [✔]           | [450 ] | [ ]   |
-| Thursday  | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
-| Friday    | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
-| Saturday  | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
+| Thursday  | [✔]          | [W]                     | [200]        | []        | [✔]           | [ ]    | [ ]   |
+| Friday    | [✔]          | []                      | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
+| Saturday  | [✔]          | [W, Ch, Pu,Sq, pu, Su ] | [40]         | [5:30]    | [✔]           | [310]  | [ ]   |
 | Sunday    | [ ]          | [ ]                     | [ ]          | [ ]       | [ ]           | [ ]    | [ ]   |
 
 ---

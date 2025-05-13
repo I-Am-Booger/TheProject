@@ -17,9 +17,9 @@ Stpu =  Standard Push-ups · Su = Sit-ups · LR = Leg Raises
 | Tuesday   | [ ]          | [ ]                                 | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
 | Wednesday | [ ]          | [ ]                                 | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
 | Thursday  | [ ]          | [ ]                                 | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
-| Friday    | [ ]          | [ ]                                 | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
-| Saturday  | [ ]          | [ ]                                 | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
-| Sunday    | [ ]          | [Ch, PU ]                           | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
+| Friday    | [ ]          | [Ch, PU, ]                          | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
+| Saturday  | [ ]          | [Ch, PU, ]                          | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
+| Sunday    | [ ]          | [Ch, PU, ]                          | [ ]          | [ ]       | [ ]           | [ ]   | [ ]   |
 **Weekly Totals:**  
 `W  · Ch  · PU  · Sq  · Inpu · Stpu · Su · LR`
 
